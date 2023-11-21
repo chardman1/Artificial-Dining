@@ -1,8 +1,8 @@
 # Artificial-Dining
 
-## Artificial Dining is a restaurant program wherein users have several options to choose from.
+### Artificial Dining is a restaurant program wherein users have several options to choose from.
 
-The program greets then prompts users to select from a list of options like:
+On initial run, the program greets then prompts users to select from a list of options like:
 
 1. Make a reservation
 2. Get a table
